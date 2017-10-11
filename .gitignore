@@ -60,3 +60,6 @@ typings/
 # vim swapfiles
 *.swp
 *.swo
+
+# bundle.js (webpack generated js file)
+public/assets/bundle.js

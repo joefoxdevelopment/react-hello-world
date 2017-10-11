@@ -10,8 +10,7 @@ This from the react docs was used to add the time to the application
 
 ## Set up instructions
 1) Run `npm install` to install the required node modules.
-2) Run `./node_modules/.bin/webpack` to compile the jsx into browser compatible
-js.
+2) Run `npm run build` to compile the jsx into browser compatible js.
 3) In a browser open
 `file://PATH_TO_REPO/react-hello-world/public/index.html` and the page should
 open.
